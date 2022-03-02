@@ -1,16 +1,15 @@
 ## Liu YANG 
 
 
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Research scientist @ MetaX Integrated Circuits (Shanghai)
 
 ### Research
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+2007-2011: Artificial compressibility method
 
 
 ### Contact
-
+liu.yang2@metax-tech.com
 hpcliuyang@outlook.com
 
 
