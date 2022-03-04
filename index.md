@@ -4,7 +4,7 @@
 Research scientist @ MetaX Integrated Circuits (Shanghai)
 
 ### Research
-2021-now: GPU computing  
+2020-now: GPU computing  
 
 2014-2020 (PhD): discrete unsteady adjoint method;   
            preconditioned compressible equations with stiffened gas law for incompressible flows in hydraulic turbines 
