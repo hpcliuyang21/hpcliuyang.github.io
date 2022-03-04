@@ -4,9 +4,10 @@
 Research scientist @ MetaX Integrated Circuits (Shanghai)
 
 ### Research
+2021-now: GPU computing  
 
-2014-2020: discrete unsteady adjoint method; 
-           preconditioned compressible equations and stiffened gas law for incompressible flows  
+2014-2020: discrete unsteady adjoint method;   
+           preconditioned compressible equations with stiffened gas law for incompressible flows in hydraulic turbines 
 
 
 2011-2014: spectral difference method on overset grids for flow simulation of a helicopter rotor  
