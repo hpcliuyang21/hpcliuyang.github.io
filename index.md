@@ -15,6 +15,9 @@ Research scientist @ MetaX Integrated Circuits (Shanghai)
 
 2007-2011 (BEng@Fudan): artificial compressibility method and level-set method for free surface flows  
 
+### Selected Publications  
+
+  
 ### Contact
 liu.yang2@metax-tech.com  
 
