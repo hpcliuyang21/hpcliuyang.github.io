@@ -22,6 +22,8 @@ Research scientist @ MetaX Integrated Circuits (Shanghai)
 
 (2018)[ASME FEDSM] Data Compression Algorithms for Adjoint Based Sensitivity Studies of Unsteady Flows.  
 
+(2020)[ASME JFE] An Extended Eddy-Preserving Scheme for Strong Vortical Flows.  
+
   
 ### Contact
 liu.yang2@metax-tech.com  
