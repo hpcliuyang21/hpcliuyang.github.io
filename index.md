@@ -17,7 +17,10 @@ Research scientist @ MetaX Integrated Circuits (Shanghai)
 
 ### Selected Publications  
 (2014)[Computers & Fluids] An upwind finite volume method for incompressible inviscid free surface flows.    
+
 (2016)[Computers & Fluids] Implementation of Spectral Difference Method on Overset Grids for Compressible Inviscid Flows.  
+
+(2018)[ASME FEDSM] Data Compression Algorithms for Adjoint Based Sensitivity Studies of Unsteady Flows.  
 
   
 ### Contact
