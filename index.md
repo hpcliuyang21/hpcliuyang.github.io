@@ -16,7 +16,8 @@ Research scientist @ MetaX Integrated Circuits (Shanghai)
 2007-2011 (BEng@Fudan): artificial compressibility method and level-set method for free surface flows  
 
 ### Selected Publications  
-An upwind finite volume method for incompressible inviscid free surface flows. 2014 Computers & Fluids  
+(2014)[Computers & Fluids] An upwind finite volume method for incompressible inviscid free surface flows.    
+(2016)[Computers & Fluids] Implementation of Spectral Difference Method on Overset Grids for Compressible Inviscid Flows.  
 
   
 ### Contact
