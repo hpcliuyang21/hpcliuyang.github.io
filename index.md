@@ -24,6 +24,7 @@ Research scientist @ MetaX Integrated Circuits (Shanghai)
 
 (2020)[ASME JFE] An Extended Eddy-Preserving Scheme for Strong Vortical Flows.  
 
+(2022)[ParCFD] A Python based unstructured finite volume framework for turbulent flow simulations with generated GPU kernels.  
   
 ### Contact
 liu.yang2@metax-tech.com  
