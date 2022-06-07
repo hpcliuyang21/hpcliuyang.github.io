@@ -18,11 +18,11 @@ Research scientist @ MetaX Integrated Circuits (Shanghai)
 ### Selected Publications  
 (2014)[Computers & Fluids] An upwind finite volume method for incompressible inviscid free surface flows.    
 
-(2016)[Computers & Fluids] Implementation of Spectral Difference Method on Overset Grids for Compressible Inviscid Flows.  
+(2016)[Computers & Fluids] Implementation of spectral difference method on overset grids for compressible inviscid flows.  
 
-(2018)[ASME FEDSM] Data Compression Algorithms for Adjoint Based Sensitivity Studies of Unsteady Flows.  
+(2018)[ASME FEDSM] Data compression algorithms for adjoint based sensitivity studies of unsteady flows.  
 
-(2020)[ASME JFE] An Extended Eddy-Preserving Scheme for Strong Vortical Flows.  
+(2020)[ASME JFE] An extended eddy-preserving scheme for strong vortical flows.  
 
 (2022)[ParCFD] A Python based unstructured finite volume framework for turbulent flow simulations with generated GPU kernels.  
   
