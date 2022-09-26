@@ -15,6 +15,9 @@ Research scientist @ MetaX Integrated Circuits (Shanghai)
 
 2007-2011 (BEng@Fudan): artificial compressibility method and level-set method for free surface flows  
 
+### Projects & Grants
+2022.10-2024.9 Multi-GPU accelerated computational fluid dynmamics simulation and aerodynamic shape optimization. PI
+
 ### Selected Publications  
 (2014)[Computers & Fluids] An upwind finite volume method for incompressible inviscid free surface flows.    
 
